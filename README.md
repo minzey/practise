@@ -1,1 +1,4 @@
-# practise contains data structures and algorithm codes.
+# practise 
+
+My first repository on github!
+It contains data structures and algorithm codes.
